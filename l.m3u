@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV-1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视频道",CCTV-1 综合 http://39.135.34.134:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035729
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV-2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视频道",CCTV-2 财经 http://39.135.34.140:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039523
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV-3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视频道",CCTV-3 综艺 http://39.135.34.8:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031579
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" ,CCTV-1 综合 http://39.135.34.134:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA035729
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" ,CCTV-2 财经 http://39.135.34.140:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039523
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" ,CCTV-3 综艺 http://39.135.34.8:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031579
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV-4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视频道",CCTV-4 国际 http://39.135.34.4:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032150
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视频道",CCTV-5 体育 http://39.135.34.18:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036763
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事 http://39.135.34.138:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034709
