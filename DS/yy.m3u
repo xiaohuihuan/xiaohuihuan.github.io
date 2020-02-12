@@ -7,9 +7,9 @@ http://39.135.34.140:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ys
 http://39.135.34.8:18890/000000001000/1000000001000011218/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031579
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 国际
 http://39.135.34.4:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA032150
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
 http://39.135.34.18:18890/000000001000/1000000001000004794/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA036763
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://39.135.34.138:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA034709
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",广东体育
 http://h5live.gslb.cmvideo.cn/wd_r3/2018/nfmedia/gdty/350/index.m3u8?msisdn=8cb985e35ebe9c0c77ec33b035c7dc43&mdspid=&spid=699054&netType=0&sid=5500002207&pid=2028597139&timestamp=20200211175910&Channel_ID=0131_200300280000000&ProgramID=624303497&ParentNodeID=-99&assertID=5500002207&client_ip=113.110.71.112&SecurityKey=20200211175910&promotionId=&mvid=&mcid=&mpid=&playurlVersion=SJ-H1-0.0.3&userid=&jmhm=&videocodec=h264&oaid=&encrypt=c00a47fa2e0796d2ec770283b9656147
