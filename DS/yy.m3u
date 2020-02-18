@@ -35,5 +35,11 @@ http://39.135.34.15:18890/000000001000/6460382139625130259/1.m3u8?channel-id=yst
 http://39.135.34.139:18890/000000001000/1000000001000024341/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA031479
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://39.135.34.23:18890/000000001000/1000000001000028286/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039223
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",叶问4
-http://videotiantian.gslawyerunion.com/20200209/96Vlt5jX/hls/index.m3u8?wsSecret=fad4d63063ad8379d016c5420f09a926&wsTime=1609237548421
+#EXTINF:-1 tvg-id="11" tvg-name="CETV1" tvg-logo="" group-title="CETV",CETV1
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv1_2/index.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CETV2" tvg-logo="" group-title="CETV",CETV2
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv2_2/index.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CETV3" tvg-logo="" group-title="CETV",CETV3
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv3_2/index.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CETV4" tvg-logo="" group-title="CETV",CETV4
+http://cctvalih5ca.v.myalicdn.com/cstv/cetv4_2/index.m3u8
